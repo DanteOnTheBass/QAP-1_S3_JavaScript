@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Whitelist .js and .docx files
+!*.js
+!*.docx
+!*.md
+!*.gitignore
